@@ -1,1 +1,9 @@
 C:\Dev\1 Projects\testApp\testApp\bin\Debug\testApp.exe.config
+C:\Dev\1 Projects\testApp\testApp\bin\Debug\testApp.exe
+C:\Dev\1 Projects\testApp\testApp\bin\Debug\testApp.pdb
+C:\Dev\1 Projects\testApp\testApp\obj\Debug\testApp.csprojResolveAssemblyReference.cache
+C:\Dev\1 Projects\testApp\testApp\obj\Debug\testApp.Form1.resources
+C:\Dev\1 Projects\testApp\testApp\obj\Debug\testApp.Properties.Resources.resources
+C:\Dev\1 Projects\testApp\testApp\obj\Debug\testApp.csproj.GenerateResource.Cache
+C:\Dev\1 Projects\testApp\testApp\obj\Debug\testApp.exe
+C:\Dev\1 Projects\testApp\testApp\obj\Debug\testApp.pdb
